@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Jainam Jain 👋
 
-<!--
-**jainamjainCG/jainamjainCG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-semester student at **Coding Gita Swaminarayan University**  
+💻 Learning programming, problem-solving, and software development  
+🌱 Currently exploring the world of technology and building my coding foundation.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I am a beginner developer passionate about learning new technologies.
+- I enjoy solving problems and improving my coding skills every day.
+- My goal is to build useful projects and grow into a skilled software developer.
+
+## Currently Learning
+
+- Programming fundamentals
+- Git and GitHub
+- Data structures and algorithms
+- Web development
+
+## Connect With Me
+
+- GitHub: [@jainjainamCG](https://github.com/jainjainamCG)
+- LeetCode: [jainam_jain_CG](https://leetcode.com/u/jainam_jain_CG/)
+
+---
+
+> “The expert in anything was once a beginner.”
