@@ -19,7 +19,7 @@
 
 ## Connect With Me
 
-- GitHub: [@jainjainamCG](https://github.com/jainjainamCG)
+- linkedin: [Jainam Jain](www.linkedin.com/in/jainam-jain-437b44427)
 - LeetCode: [jainam_jain_CG](https://leetcode.com/u/jainam_jain_CG/)
 
 ---
