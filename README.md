@@ -16,7 +16,8 @@
 - Git and GitHub
 - Data structures and algorithms
 - Web development
-
+- figma
+- python
 ## Connect With Me
 
 - linkedin: (www.linkedin.com/in/jainam-jain-437b44427)
