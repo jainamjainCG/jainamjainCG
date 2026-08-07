@@ -22,7 +22,7 @@
 
 - linkedin: (www.linkedin.com/in/jainam-jain-437b44427)
 - LeetCode: [jainam_jain_CG](https://leetcode.com/u/jainam_jain_CG/)
-
+![samdev-pulse](https://samdev-pulse.vercel.app/api/profile?username=jainamjainCG&leetcode=jainam_jain_cg)
 ---
 
 > “The expert in anything was once a beginner.”
